@@ -1,0 +1,28 @@
+/* 
+
+
+.main-head{
+    background-color: rgb(229, 229, 229);
+    box-shadow: 0px 10px 5px rgb(149, 149, 149);
+    position: sticky;
+}
+
+.nav-brand{
+    font-size: xx-large;
+    font-family: Poppins;
+}
+
+
+
+.nav-all-text{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-text{
+    font-size: medium;
+    
+}
+
+.nav-text:hover{
+    border-bottom: 5px solid rgb(115, 115, 115);
+} */

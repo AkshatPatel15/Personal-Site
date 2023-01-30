@@ -1,0 +1,7 @@
+.portfolio{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100;
+    background-color: rgb(229, 229, 229, 0.5);
+    padding: 50px;
+}
